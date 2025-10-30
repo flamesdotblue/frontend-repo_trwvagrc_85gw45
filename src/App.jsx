@@ -15,7 +15,7 @@ function App() {
               <Coffee className="h-5 w-5" />
             </div>
             <span className="text-lg font-semibold tracking-tight text-zinc-900">
-              Aata Caffe
+              Asta
             </span>
           </a>
           <nav className="hidden items-center gap-6 text-sm text-zinc-700 sm:flex">
@@ -34,7 +34,7 @@ function App() {
           <div className="mx-auto max-w-7xl px-6 py-16">
             <div className="grid gap-8 rounded-3xl bg-gradient-to-br from-amber-600 to-rose-500 p-8 text-white shadow-xl md:grid-cols-2">
               <div>
-                <h3 className="text-2xl font-bold">Visit Aata Caffe today</h3>
+                <h3 className="text-2xl font-bold">Visit Asta today</h3>
                 <p className="mt-2 text-white/90">
                   Drop by for a cup, or reach out to book our space for your next meet-up.
                 </p>

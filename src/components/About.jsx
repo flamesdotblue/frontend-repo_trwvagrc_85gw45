@@ -42,7 +42,7 @@ export default function About() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="mt-4 text-zinc-600"
             >
-              Aata Caffe is a neighborhood retreat where quality beans meet warm hospitality. We partner with sustainable farms, roast weekly, and bake in-house daily.
+              Asta is a neighborhood retreat where quality beans meet warm hospitality. We partner with sustainable farms, roast weekly, and bake in-house daily.
             </motion.p>
 
             <div className="mt-8 grid gap-4 sm:grid-cols-3">

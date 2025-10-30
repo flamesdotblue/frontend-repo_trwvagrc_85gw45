@@ -3,7 +3,7 @@ import { Sparkles } from 'lucide-react'
 
 const items = [
   {
-    name: 'Aata Signature Latte',
+    name: 'Asta Signature Latte',
     desc: 'Creamy espresso with house-made spiced syrup',
     price: '$5.50',
     image:

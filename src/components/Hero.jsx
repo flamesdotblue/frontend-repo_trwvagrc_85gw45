@@ -29,7 +29,7 @@ export default function Hero() {
               transition={{ duration: 0.9, delay: 0.1 }}
               className="mt-6 text-5xl font-extrabold tracking-tight text-zinc-900 sm:text-6xl"
             >
-              Aata Caffe
+              Asta
             </motion.h1>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
@@ -103,7 +103,7 @@ export default function Hero() {
             <div className="absolute -bottom-6 left-6 z-20 rounded-2xl bg-white/90 px-4 py-3 shadow-xl backdrop-blur">
               <div className="flex items-center gap-2 text-amber-700">
                 <Coffee className="h-4 w-4" />
-                House Special: Aata Signature Latte
+                House Special: Asta Signature Latte
               </div>
             </div>
           </motion.div>

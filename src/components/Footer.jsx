@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-6 py-12">
         <div className="grid gap-8 md:grid-cols-3">
           <div>
-            <h3 className="text-xl font-bold text-zinc-900">Aata Caffe</h3>
+            <h3 className="text-xl font-bold text-zinc-900">Asta</h3>
             <p className="mt-2 text-sm text-zinc-600">
               Your cozy corner for specialty coffee, fresh bakes, and meaningful conversations.
             </p>
@@ -20,7 +20,7 @@ export default function Footer() {
               <Phone className="h-4 w-4" /> (123) 456-7890
             </div>
             <div className="flex items-center gap-2 text-sm text-zinc-600">
-              <Mail className="h-4 w-4" /> hello@aatacaffe.com
+              <Mail className="h-4 w-4" /> hello@asta.com
             </div>
           </div>
           <div className="space-y-3">
@@ -41,7 +41,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-10 border-t border-zinc-100 pt-6 text-center text-xs text-zinc-500">
-          © {new Date().getFullYear()} Aata Caffe. All rights reserved.
+          © {new Date().getFullYear()} Asta. All rights reserved.
         </div>
       </div>
     </footer>
